@@ -13,14 +13,6 @@
   
 
 - **⚡ Fun fact In my free time I like to do 3D modeling in blender.**  
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
 
 
 ### Skills
@@ -47,9 +39,6 @@
 </a>  
 </div>  
   
-
-<br/>  
-
 ### Badges
 
 <b>My GitHub Stats</b>
