@@ -4,7 +4,8 @@
   
 
 # **<div align="center">Hi 👋, I'm Eugene</div>**  
-  
+
+<h3 align="center">I'm a web developer from Russia who loves new and interesting features, I just love my job!</h3>
 
 - **📫 How to reach me elogvinov19@gmail.com**  
   
