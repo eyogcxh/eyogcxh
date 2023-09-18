@@ -41,6 +41,7 @@
 <a href="https://t.me/boyfromdiscord" target="_blank">
 <img src=https://img.shields.io/badge/telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
 </a>  
+<p align="left"> <a href="https://discord.com/users/💮eyogxch💮#7774" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a></p>
 </div>  
   
 <b>My GitHub Stats</b>
