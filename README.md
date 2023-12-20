@@ -1,4 +1,4 @@
-<img align="centre" alt="GIF" src="https://media.giphy.com/media/4knozU8q9AXvpod9qy/giphy.gif" width="450" height="300" />
+<img align="" alt="GIF" src="https://media.giphy.com/media/4knozU8q9AXvpod9qy/giphy.gif" width="450" height="300" />
 
 # **<div align="center">Hi 👋, I'm Eugene</div>**  
 
