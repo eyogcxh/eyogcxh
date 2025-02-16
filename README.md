@@ -1,8 +1,6 @@
 <img align="" alt="GIF" src="https://media.giphy.com/media/4knozU8q9AXvpod9qy/giphy.gif" width="100%" height="350" />
 
-# **<div align="center">Hi 👋, I'm Eugene</div>** 
-
-- **📫 How to reach me elogvinov19@gmail.com**  
+# **<div align="center">Hi 👋, I'm Eugene</div>**
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
